@@ -2,8 +2,8 @@
 const variables = {
     method: "GET",
     headers: {
-        'X-RapidAPI-Key': "5190911ba5msh4fbda7c5ffa6b2cp191e64jsn3ceced940a0f",
-        'X-RapidAPI-Host': "weather-by-api-ninjas.p.rapidapi.com"
+        'X-RapidAPI-Key': "<Your-RapidAPI-Key>",
+        'X-RapidAPI-Host': "Your-RapidAPI-Host"
     }
 };
 
